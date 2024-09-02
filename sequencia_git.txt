@@ -1,0 +1,13 @@
+na pasta do projeto
+
+git init
+
+git add .
+
+git commit -m "mensagem explicativa"
+
+git branch -M main
+
+git remote add origin https://github.com/JLuizSouza1963/aulagithub.git
+
+git push -u origin main
